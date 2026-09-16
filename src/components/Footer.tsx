@@ -100,7 +100,21 @@ export const Footer: React.FC = () => {
 
         {/* Bottom Legal / Disclosures */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 font-body-sm text-body-sm text-outline">
-          <p>© 2026 SISMN LLC. All rights reserved. Architectural &amp; Engineering Services.</p>
+          <div className="flex flex-wrap items-center gap-x-2 gap-y-1 text-center sm:text-left">
+            <span>© 2026 SISMN LLC. All rights reserved.</span>
+            <span className="hidden sm:inline opacity-40">•</span>
+            <span>
+              Developed by{' '}
+              <a
+                href="https://github.com/imhocien"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-amber-highlight hover:underline font-medium transition-colors"
+              >
+                Hocien
+              </a>
+            </span>
+          </div>
           <div className="flex flex-wrap items-center gap-4 sm:gap-6 font-label-caps text-[11px] uppercase tracking-wider text-outline">
             <Link to="/privacy-policy" className="hover:text-amber-highlight transition-colors">Privacy Policy</Link>
             <Link to="/terms-of-service" className="hover:text-amber-highlight transition-colors">Terms of Service</Link>
