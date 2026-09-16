@@ -1,0 +1,32 @@
+# Robots.txt for SISMN LLC (https://sismnllc.com)
+# Licensed & Board Certified Architecture, Engineering & Real Estate Development
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Welcome AI & LLM Search Crawlers (Generative Engine Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Canonical Sitemaps and LLM knowledge endpoints
+Sitemap: https://sismnllc.com/sitemap.xml
+# LLM Knowledge Index: https://sismnllc.com/llms.txt

@@ -1,0 +1,42 @@
+# SISMN LLC
+
+> Texas Licensed & Board Certified Architecture, Civil & Structural Engineering, Real Estate Acquisition, and Construction Management Firm headquartered in Dallas, Texas.
+
+## Corporate Identity & Statutory Accreditations
+- **Company Name**: SISMN LLC
+- **Legal Jurisdiction**: State of Texas, United States
+- **Headquarters**: 13151 Emily Rd. #100, Dallas, TX 75240
+- **Direct Phone**: (214) 453-9999
+- **Email**: info@sismnllc.com
+- **Website**: https://sismnllc.com
+- **President & Founder**: Imran Pirzada
+- **Texas Board of Professional Engineers and Land Surveyors (TBPELS)**: Firm Registration #F-10492
+- **Texas Board of Architectural Examiners (TBAE)**: Architectural Firm Registration #BR-4902
+- **Track Record**: 25+ Years of Leadership, 250+ Cities Covered, 2,000+ Completed Valuations & Deliveries, $300M+ Project Pipeline
+
+## Core Disciplines & Professional Capabilities
+1. **Architectural Design & Space Planning**: Conceptual architecture, commercial shopping centers, luxury residential master plans, construction documentation, and Texas Accessibility Standards (TAS/ADA) compliance.
+2. **Structural & Civil Engineering**: Board-certified structural calculations, foundation designs, post-tensioned slabs, civil site utilities, stormwater detention, and drainage analysis.
+3. **Real Estate Acquisition Consulting**: Comprehensive site selection, zoning analysis, municipal entitlement processing, land feasibility, and platting.
+4. **Full-Lifecycle Construction Management**: Owner representation, general contracting oversight, QA/QC site inspections, and turn-key delivery.
+5. **Capital Placement & Joint Ventures**: Feasibility modeling, institutional syndication advisory, and commercial investment structuring.
+
+## Key Signature Developments
+- **The Vineyards** (Cedar Hill, TX): Multi-acre master-planned residential community featuring custom topography, dedicated parkways, and modern underground infrastructure.
+- **The Mya Heights** (Rowlett, TX): High-density luxury community located near Lake Ray Hubbard with contemporary facades and energy-efficient systems.
+- **Savana Avenue** (Carrollton, TX): 12,000 SF retail center paired with 30 residential condominiums and integrated parking deck.
+- **Shahla Homes** (Lancaster, TX): Custom suburban single-family subdivision with comprehensive civil infrastructure.
+- **Silver Saddle Court** (Grand Prairie, TX): 18-unit premium duplex residential community engineered with precision stormwater systems.
+- **Clarksville General Hospital** (Clarksville, TX): Full-service acute care medical and hospital facility with medical-grade MEP, surgical suites, and trauma center.
+
+## Key URLs & Endpoints
+- **Home**: https://sismnllc.com/
+- **About Firm**: https://sismnllc.com/about
+- **Services**: https://sismnllc.com/services
+- **Projects Portfolio**: https://sismnllc.com/projects
+- **Investment Portal**: https://sismnllc.com/investment
+- **Leadership & Engineers**: https://sismnllc.com/team
+- **Contact & Technical RFP**: https://sismnllc.com/contact
+- **License Disclosures**: https://sismnllc.com/license-disclosures
+- **Frequently Asked Questions**: https://sismnllc.com/faq
+- **Full LLM Context**: https://sismnllc.com/llms-full.txt

@@ -1,0 +1,3 @@
+@echo off
+echo Starting SISMN Engineering Dev Server...
+call npm.cmd run dev
