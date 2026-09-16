@@ -35,5 +35,7 @@ Thumbs.db
 
 # Agent & temporary artifacts
 .agent/
+AGENTS.md
+GEMINI.md
 audit-screenshots/
 *.tmp
