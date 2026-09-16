@@ -46,6 +46,8 @@ export const AboutSection: React.FC = () => {
               <img
                 src="/images/heroes/hero-slide-3.jpg"
                 alt="SISMN LLC Construction Site"
+                loading="lazy"
+                decoding="async"
                 className="w-full h-[400px] sm:h-[480px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-slate-950/20 to-transparent" />
@@ -66,6 +68,8 @@ export const AboutSection: React.FC = () => {
                     <img
                       src="/images/team/imran-pirzada.jpg"
                       alt="Imran Pirzada"
+                      loading="lazy"
+                      decoding="async"
                       className="w-12 h-12 rounded-full object-cover object-top border-2 border-amber-highlight shadow-md shrink-0"
                     />
                     <div>

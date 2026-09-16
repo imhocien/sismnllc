@@ -465,6 +465,8 @@ export const HomePage: React.FC = () => {
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                     alt={project.title}
                     src={project.image}
+                    loading="lazy"
+                    decoding="async"
                   />
                   <div className="absolute top-3 left-3 bg-slate-surface-dark/90 text-on-primary px-3 py-1 rounded-full font-spec-code text-[11px] uppercase tracking-wider backdrop-blur-sm border border-white/10">
                     {project.typeTag}
